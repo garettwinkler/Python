@@ -1,3 +1,5 @@
+NOTE: See repo readme for overall pacman project link
+
 Implemented functions:
 
 /*********************************************************************/
@@ -24,4 +26,4 @@ multiAgents.py
 /*********************************************************************/  
     
     
- NOTE: See repo readme for overall pacman project link
+ 
