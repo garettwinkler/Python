@@ -25,5 +25,11 @@ multiAgents.py
 
 /*********************************************************************/  
     
-    
+analysis.py
+  - nothing, just values
+
+valueIterationAgents.py
+  - init
+  - computeQValueFromValues
+  - computeActionFromValues
  
