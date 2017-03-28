@@ -33,3 +33,7 @@ valueIterationAgents.py
   - computeQValueFromValues
   - computeActionFromValues
  
+/*********************************************************************/  
+
+perceptron.py
+  - train
